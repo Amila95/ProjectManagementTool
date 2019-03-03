@@ -1,0 +1,5 @@
+package io.agileintelligence.ppmtool.exception;
+
+public class ProjectIdExceptionResponce {
+
+}
